@@ -47,4 +47,3 @@ matplotlib.use('Qt5Agg')
 
 📚 Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz. Fühle dich frei, es zu verwenden, zu modifizieren und zu teilen
